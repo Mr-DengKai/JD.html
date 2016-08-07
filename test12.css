@@ -1,0 +1,1488 @@
+.wrapper{
+	width: 1421px;
+	position: relative;
+}
+.wrapper .nav{
+	position: relative;
+	height: 29px;
+	width: 1421px;
+	background-color: #f1f1f1;
+}
+.wrapper .nav li,.wrapper .box1 .u4 li,.wrapper .box3 li,.wrapper .box4 li{
+	float: left;
+}
+.clear:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+.wrapper .nav .n1{
+	position: absolute;
+	font-size: 12px;
+	color: #666666;
+	top: 9px;
+	left: 116px;
+
+
+}
+.wrapper .nav .n1 img{
+	position: absolute;
+	top: 3px;
+  left: 57px;
+}
+.wrapper .nav .n2{
+	position: absolute;
+	font-size: 12px;
+	color: #666666;
+	top: 9px;
+	left: 521px;
+}
+.wrapper .nav .n2 a{
+	color: #c81623;
+}
+.wrapper .nav .n3{
+	position: absolute;
+	font-size: 12px;
+	color: #666666;
+	top: 9px;
+	left: 659px;
+	width: 70px;
+	text-align: center;
+	border-left: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+.wrapper .nav .n3 a,.wrapper .nav .n4 a,.wrapper .nav .n5 a,.wrapper .nav .n6 a,.wrapper .nav .n7 a,.wrapper .nav .n8 a,.wrapper .nav .n9 a,.wrapper .nav .n10 a{
+	color: #666666;
+}
+.wrapper .nav .n4{
+	position: absolute;
+	font-size: 12px;
+	top: 9px;
+	left:739px;
+}
+.wrapper .nav .n4 img{
+	position: absolute;
+	top: 3px;
+	margin-left: 49px;
+}
+.wrapper .nav .n5{
+
+	position: absolute;
+	font-size: 12px;
+	top: 9px;
+	left:815px;
+	width: 70px;
+	border-left: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+.wrapper .nav .n5 a{
+	padding-left: 10px;
+}
+.wrapper .nav .n5 img{
+	position: absolute;
+	top: 3px;
+	margin-left: 60px;
+}
+.wrapper .nav .n6 a{
+position: absolute;
+	font-size: 12px;
+	top: 9px;
+	left:884px;
+	width: 70px;
+    text-align: center;
+}
+.wrapper .nav .n7 a{
+	position: absolute;
+	font-size: 12px;
+	top: 9px;
+	left:953px;
+	width: 110px;
+    text-align: center;
+    border-left: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+.wrapper .nav .n7 .pic1{
+	position: absolute;
+	left: 965px;
+	top: 7px;
+}
+.wrapper .nav .n7 .pic2{
+	position: absolute;
+	left: 89px;
+	top: 3px;
+}
+.wrapper .nav .n8{
+	position: absolute;
+	left:1075px;
+	top: 9px;
+
+	text-align: center;
+}
+
+.wrapper .nav .n8 img{
+position: absolute;
+	top: 3px;
+	margin-left: 55px;
+
+}
+.wrapper .nav .n8 a{
+	padding-left: 4px;
+}
+
+.wrapper .nav .n9{
+	position: absolute;
+	left:1143px;
+	top: 9px;
+	width: 88px;
+	text-align: center;
+	 border-left: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+
+.wrapper .nav .n9 img{
+position: absolute;
+	top: 3px;
+	margin-left: 70px;
+
+}
+.wrapper .nav .n9 a{
+	padding-left: -14px;
+}
+
+.wrapper .nav .n10{
+	position: absolute;
+	left:1230px;
+	top: 9px;
+	width: 88px;
+	text-align: center;
+
+}
+
+.wrapper .nav .n10 img{
+position: absolute;
+	top: 3px;
+	margin-left: 70px;
+
+}
+.wrapper .nav .n10 a{
+	padding-left: -14px;
+}
+
+
+
+
+/*购物车图标化妆*/
+.wrapper .box1 .u2{
+     position: relative;
+	width: 181px;
+	height: 70px;
+	border:1px solid #ffffff;
+	
+}
+.wrapper .box1 .u2 .table{
+	position: relative;
+	width: 139px;
+	height: 34px;
+	border:1px solid #dfdfdf;
+	margin-top: 16px;
+	margin-left: 14px;
+}
+.wrapper .box1 .u2 .table a .pic1{
+  position: absolute;
+  top: 10px;
+  left: 20px;
+
+}
+.wrapper .box1 .u2 .table a .pic2{
+  position: absolute;
+  top: 13px;
+  right: 11px;
+
+}
+.wrapper .box1 .u2 .table a strong{
+	font-size: 12px;
+	color: #8c8c8c;
+	position: absolute;
+	top: 11px;
+	left: 44px;
+}
+/*购物车图标化妆完结*/
+.wrapper .hr{
+  position: absolute;
+  top: 174px;
+	height: 2px;
+	width: 1421px;
+	background-color: #b1191a;
+}
+/*中间红线完结*/
+.wrapper .box1{
+	position: absolute;
+	top: 29px;
+	width: 1316px;
+	height: 400px;
+}
+.wrapper .box1 .u1 img{
+	position: absolute;
+	top: 40px;
+	left: 107px;
+}
+.wrapper .box1 .u1 span{
+	width: 150px;
+	height: 22px;
+	font-size: 20px;
+	font-weight: bold;
+	position: absolute;
+	color: #d4454f;
+	top: 50px;
+	left: 276px;
+}
+input{
+	width: 457px;
+	height: 37px;
+	position: absolute;
+	top: 55px;
+	left: 468px;
+	border:2px solid #b61d1d;
+}
+.wrapper .box1 .sousuo{
+    position: absolute;
+    top: 55px;
+    left: 927px;
+	width: 79px;
+	height: 41px;
+	background-color: #b61d1d;
+}
+.wrapper .box1 .sousuo a{
+	position: absolute;
+	font-size: 17px;
+	color: #ffffff;
+    top: 13px;
+    left: 22px;
+}
+.wrapper .box1 .u2{
+	position: absolute;
+	top: 40px;
+	left: 1110px;
+
+}
+.wrapper .box1 .u3 .l0{
+	position: absolute;
+	top: 100px;
+	left: 105px;
+	position: relative;
+	width: 211px;
+	height: 45px;
+	background-color: #b1191a;
+}
+.wrapper .box1 .u3 .l0 a{
+
+	position: absolute;
+	top: 16px;
+	left: 12px;
+	font-size: 16px;
+	color: #ffffff;
+}
+.wrapper .box1 .u3 .l0 img{
+	position: absolute;
+	top: 20px;
+	left: 182px;
+}
+.wrapper .box1 .u4 .l1{
+  position: absolute;
+  top: 113px;
+  left: 336px;
+	height: 44px;
+
+}
+.wrapper .box1 .u4 .l1 a,.wrapper .box1 .u4 .l2 a,.wrapper .box1 .u4 .l3 a,.wrapper .box1 .u4 .l4 a,.wrapper .box1 .u4 .l5 a,.wrapper .box1 .u4 .l6 a,.wrapper .box1 .u4 .l7 a,.wrapper .box1 .u4 .l8 a,.wrapper .box1 .u4 .l9 a{
+	font-size: 14px;
+	color: #333333;
+}
+.wrapper .box1 .u4 .l2 a{
+position: absolute;
+  top: 113px;
+  left: 423px;
+	height: 44px;	
+}
+.wrapper .box1 .u4 .l3 a{
+position: absolute;
+  top: 113px;
+  left: 507px;
+	height: 44px;	
+}.wrapper .box1 .u4 .l4 a{
+position: absolute;
+  top: 113px;
+  left: 578px;
+	height: 44px;	
+}.wrapper .box1 .u4 .l5 a{
+position: absolute;
+  top: 113px;
+  left: 648px;
+	height: 44px;	
+}.wrapper .box1 .u4 .l6 a{
+position: absolute;
+  top: 113px;
+  left: 735px;
+	height: 44px;	
+}.wrapper .box1 .u4 .l7 a{
+position: absolute;
+  top: 113px;
+  left: 806px;
+	height: 44px;	
+}.wrapper .box1 .u4 .l8 a{
+position: absolute;
+  top: 113px;
+  left: 876px;
+	height: 44px;	
+}.wrapper .box1 .u4 .l9 a{
+position: absolute;
+  top: 113px;
+  left: 947px;
+	height: 44px;	
+}
+/*box1完结*/
+
+.wrapper .box2{
+	position: absolute;
+	width: 1421px;
+	height: 145px;
+	background-color: #f5f5f5;
+	top: 176px;
+}
+.wrapper .box2 .pic1{
+	position: absolute;
+	top: 21px;
+	left: 105px;
+}
+.wrapper .box2 .pic2{
+	position: absolute;
+	top: 65px;
+	left: 105px;
+}
+.wrapper .box2 .k1 a strong{
+	position: absolute;
+	top: 73px;
+	left: 175px;
+	font-size: 13px;
+	color: #333333;
+
+}
+.wrapper .box2 .k2 .k22{
+	position: absolute;
+	top: 96px;
+	left: 178px;
+}
+.wrapper .box2 .k3{
+	position: absolute;
+	left: 1045px;
+	top: 89px;
+	width: 94px;
+	height: 36px;
+	background-color: #ffffff;
+}
+.wrapper .box2 .k3 a{
+	position: absolute;
+	top: 10px;
+	left: 30px;
+	font-size: 16px;
+	color: #e4393c;
+	z-index: 1;
+
+}
+.wrapper .box2 .k4{
+	position: absolute;
+	left: 1148px;
+	top: 90px;
+	width: 170px;
+	height: 36px;
+    background-color: #e4393c;
+}
+.wrapper .box2 .k4 a{
+	position: absolute;
+	padding-top: 10px;
+	padding-left: 30px;
+	
+	font-size: 16px;
+	color: #f4e0ff;
+}
+.wrapper .box2 .k4 .pic3{
+	position: absolute;
+	top: 10px;
+	left: 140px;
+}
+.wrapper .text{
+	position: absolute;
+	top: 355px;
+	left: 79px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #333333;
+}
+.wrapper .text1 img{
+	position: absolute;
+	right: 106px;
+	top: 358px;
+}
+/*对box3化妆*/
+.wrapper .box3{
+	position: absolute;
+	top: 381px;
+	left: 105px;
+	width: 1200px;
+	border: 1px dashed #cacaca;
+}
+.wrapper .box3 .l1{
+    position: relative;
+	width: 240px;
+	height: 310px;
+	border-bottom: 1px dashed #cacaca;
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box3 .l1 a strong{
+	position: absolute;
+	top: 188px;
+	left: 21px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l1 a span{
+	position: absolute;
+	left: 21px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l1 a img{
+	position: absolute;
+	top: 20px;
+	left: 0px;
+
+}.wrapper .box3 .l1 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 19px;
+}
+/*li化妆完结*/
+.wrapper .box3 .l2{
+    position: relative;
+    margin-left: 7px;
+	width: 240px;
+	height: 310px;
+	border-bottom: 1px dashed #cacaca;
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box3 .l2 a strong{
+	position: absolute;
+	top: 188px;
+	left: 10px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l2 a span{
+	position: absolute;
+	left: 18px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l2 a img{
+	position: absolute;
+	top: 20px;
+	left: 0px;
+
+}.wrapper .box3 .l2 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 3px;
+}
+/*l2化妆完结*/
+.wrapper .box3 .l3{
+    position: relative;
+     margin-left: 7px;
+	width: 240px;
+	height: 310px;
+	border-bottom: 1px dashed #cacaca;
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box3 .l3 a strong{
+	position: absolute;
+	top: 188px;
+	left: 17px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l3 a span{
+	position: absolute;
+	left: 18px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l3 a img{
+	position: absolute;
+	top: 20px;
+	left: 0px;
+
+}.wrapper .box3 .l3 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 3px;
+}
+/*l3完结*/
+.wrapper .box3 .l4{
+    position: relative;
+     margin-left: 7px;
+	width: 220px;
+	height: 310px;
+	border-bottom: 1px dashed #cacaca;
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box3 .l4 a strong{
+	position: absolute;
+	top: 188px;
+	left: 6px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l4 a span{
+	position: absolute;
+	left: 18px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l4 a img{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+
+}.wrapper .box3 .l4 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+/*l4化妆完结*/
+.wrapper .box3 .l5{
+	 margin-left: 7px;
+    position: relative;
+	width: 205px;
+	height: 310px;
+	border-bottom: 1px dashed #cacaca;
+	/*border-right: 1px dashed #cacaca;*/
+}
+.wrapper .box3 .l5 a strong{
+	position: absolute;
+	top: 188px;
+	left: 2px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l5 a span{
+	position: absolute;
+	left: 18px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l5 a img{
+	position: absolute;
+	top: 20px;
+	left: 0px;
+
+}.wrapper .box3 .l5 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 5px;
+}
+/*l5化妆完结*/
+.wrapper .box3 .l6{
+    position: relative;
+	width: 240px;
+	height: 310px;
+	/*border-bottom: 1px dashed #cacaca;*/
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box3 .l6 a strong{
+	position: absolute;
+	top: 188px;
+	left: 17px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l6 a span{
+	position: absolute;
+	left: 21px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l6 a img{
+	position: absolute;
+	top: 20px;
+	left: 0px;
+
+}.wrapper .box3 .l6 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 17px;
+}
+/*l6化妆完结*/
+.wrapper .box3 .l7{
+	 margin-left: 7px;
+    position: relative;
+	width: 240px;
+	height: 310px;
+	/*border-bottom: 1px dashed #cacaca;*/
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box3 .l7 a strong{
+	position: absolute;
+	top: 188px;
+	left: 17px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l7 a span{
+	position: absolute;
+	left: 18px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l7 a img{
+	position: absolute;
+	top: 20px;
+	left: 0px;
+
+}.wrapper .box3 .l7 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 3px;
+}
+/*l7化妆完结*/
+.wrapper .box3 .l8{
+	 margin-left: 7px;
+    position: relative;
+	width: 240px;
+	height: 310px;
+	/*border-bottom: 1px dashed #cacaca;*/
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box3 .l8 a strong{
+	position: absolute;
+	top: 188px;
+	left: 17px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l8 a span{
+	position: absolute;
+	left: 18px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l8 a img{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+
+}.wrapper .box3 .l8 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+/*l8化妆完结*/
+.wrapper .box3 .l9{
+	 margin-left: 7px;
+    position: relative;
+	width: 220px;
+	height: 310px;
+	/*border-bottom: 1px dashed #cacaca;*/
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box3 .l9 a strong{
+	position: absolute;
+	top: 188px;
+	left: 2px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l9 a span{
+	position: absolute;
+	left: 18px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l9 a img{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+
+}.wrapper .box3 .l9 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+.wrapper .box3 .l10{
+	 margin-left: 7px;
+    position: relative;
+	width: 201px;
+	height: 310px;
+	border-bottom: 1px dashed #cacaca;
+	/*border-right: 1px dashed #cacaca;*/
+}
+.wrapper .box3 .l10 a strong{
+	position: absolute;
+	top: 188px;
+	left: 12px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box3 .l10 a span{
+	position: absolute;
+	left: 13px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box3 .l10 a img{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+
+}.wrapper .box3 .l10 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+/*box3化妆完结*/
+.wrapper .text3{
+	position: absolute;
+	top: 1016px;
+	left: 79px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #333333;
+}
+.wrapper .text4 img{
+	position: absolute;
+	right: 106px;
+	top: 1020px;
+}
+/*box4开始化妆*/
+.wrapper .box4{
+	position: absolute;
+	top: 1042px;
+	left: 105px;
+	width: 1200px;
+	border: 1px dashed #cacaca;
+}
+.wrapper .box4 .l1{
+	 margin-left: 7px;
+    position: relative;
+	width: 234px;
+	height: 310px;
+	/*border-bottom: 1px dashed #cacaca;*/
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box4 .l1 a strong{
+	position: absolute;
+	top: 188px;
+	left: 12px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box4 .l1 a span{
+	position: absolute;
+	left: 13px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box4 .l1 a img{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+
+}.wrapper .box4 .l1 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+/*l1化妆完结*/
+.wrapper .box4 .l2{
+	 margin-left: 7px;
+    position: relative;
+	width: 240px;
+	height: 310px;
+	/*border-bottom: 1px dashed #cacaca;*/
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box4 .l2 a strong{
+	position: absolute;
+	top: 188px;
+	left: 12px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box4 .l2 a span{
+	position: absolute;
+	left: 13px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box4 .l2 a img{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+
+}.wrapper .box4 .l2 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+/*l2完结*/
+.wrapper .box4 .l3{
+	 margin-left: 7px;
+    position: relative;
+	width: 240px;
+	height: 310px;
+	/*border-bottom: 1px dashed #cacaca;*/
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box4 .l3 a strong{
+	position: absolute;
+	top: 188px;
+	left: 12px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box4 .l3 a span{
+	position: absolute;
+	left: 13px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box4 .l3 a img{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+
+}.wrapper .box4 .l3 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+/*l3完结*/
+.wrapper .box4 .l4{
+	 margin-left: 7px;
+    position: relative;
+	width: 220px;
+	height: 310px;
+	/*border-bottom: 1px dashed #cacaca;*/
+	border-right: 1px dashed #cacaca;
+}
+.wrapper .box4 .l4 a strong{
+	position: absolute;
+	top: 188px;
+	left: 12px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box4 .l4 a span{
+	position: absolute;
+	left: 13px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box4 .l4 a img{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+
+}.wrapper .box4 .l4 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+/*l4完结*/
+.wrapper .box4 .l5{
+	 margin-left: 7px;
+    position: relative;
+	width: 220px;
+	height: 310px;
+	
+}
+.wrapper .box4 .l5 a strong{
+	position: absolute;
+	top: 188px;
+	left: 12px;
+	font-size: 11px;
+	color: #333333;
+}
+.wrapper .box4 .l5 a span{
+	position: absolute;
+	left: 13px;
+	top: 240px;
+	color: #e01f20;
+}
+.wrapper .box4 .l5 a img{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+
+}.wrapper .box4 .l5 a .pic{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+.wrapper .text5{
+	position: absolute;
+	top: 1375px;
+	left: 79px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #333333;
+}
+/*box4化妆完结*/
+.wrapper .box5{
+	position: relative;
+	width: 1196px;
+	top: 1349px;
+	left: 106px;
+}
+.wrapper .box5 .u1{
+	position: absolute;
+    top: 40px;
+    left: 0px;
+	width: 284px;
+	height: 232px;
+	border: 1px solid #dddddd;
+}
+
+.wrapper .box5 .u1 .l3 img,.wrapper .box5 .u2 .l3 img,.wrapper .box5 .u3 .l3 img,.wrapper .box5 .u4 .l3 img{
+	position: absolute;
+	top: 172px;
+	left: 40px;
+} 
+.wrapper .box5 .u1 .l2{
+	font-size: 20px;
+	color: #ee557d;
+	margin-left: 111px;
+	margin-top: 30px;
+}
+.wrapper .box5 .u2{
+	position: absolute;
+    top: 40px;
+    left: 306px;
+	width: 284px;
+	height: 232px;
+	border: 1px solid  #dddddd;
+}
+.wrapper .box5 .u2 .l2{
+	font-size: 20px;
+	color: #8855bb;
+	margin-left: 111px;
+	margin-top: 30px;
+}
+.wrapper .box5 .u3{
+	position: absolute;
+    top: 40px;
+    left: 615px;
+	width: 284px;
+	height: 232px;
+	border: 1px solid  #dddddd;
+}
+.wrapper .box5 .u3 .l2{
+	font-size: 20px;
+	color: #00aa66;
+	margin-left: 111px;
+	margin-top: 30px;
+}
+.wrapper .box5 .u4{
+	position: absolute;
+    top: 40px;
+    left: 923px;
+	width: 284px;
+	height: 232px;
+	border: 1px solid  #dddddd;
+}
+.wrapper .box5 .u4 .l2{
+	font-size: 20px;
+	color: #eebb22;
+	margin-left: 111px;
+	margin-top: 30px;
+}
+/*box5化妆完结*/
+.wrapper .box6{
+	position: absolute;
+	top: 1665px;
+	width: 1421px;
+	height: 94px;
+}
+/*box6化妆完结*/
+.wrapper .box7{
+	position: absolute;
+	top: 1759px;
+	left: 105px;
+	width: 1208px;
+	height: 190px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.wrapper .box7 .l1 a{
+	position: absolute;
+	margin-top: 24px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #666666;
+
+}
+.wrapper .box7 .l2 a{
+	position: absolute;
+	padding-top: 54px;
+	
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .l3 a{
+	position: absolute;
+	padding-top: 70px;
+	
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .l4 a{
+	position: absolute;
+	padding-top: 86px;
+	
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .l5 a{
+	position: absolute;
+	padding-top: 100px;
+	
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .l6 a{
+	position: absolute;
+	padding-top: 116px;
+	
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .l7 a{
+	position: absolute;
+	padding-top: 130px;
+	
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}
+/*----------------------*/
+.wrapper .box7 .u2{
+	position: absolute;
+	top: 0px;
+	left: 280px;
+}
+.wrapper .box7 .u2 .l1 a{
+	position: absolute;
+	margin-top: 24px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #666666;
+	width: 80px;
+
+}
+.wrapper .box7 .u2 .l2 a{
+	position: absolute;
+	padding-top: 60px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u2 .l3 a{
+	position: absolute;
+	padding-top: 80px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u2 .l4 a{
+	position: absolute;
+	padding-top: 95px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u2 .l5 a{
+	position: absolute;
+	padding-top: 110px;
+	width: 100px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u2 .l6 a{
+	position: absolute;
+	padding-top: 130px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}
+/*---------------------------------*/
+.wrapper .box7 .u3{
+	position: absolute;
+	top: 0px;
+	left: 560px;
+}
+.wrapper .box7 .u3 .l1 a{
+	position: absolute;
+	margin-top: 24px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #666666;
+	width: 80px;
+
+}
+.wrapper .box7 .u3 .l2 a{
+	position: absolute;
+	padding-top: 60px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u3 .l3 a{
+	position: absolute;
+	padding-top: 80px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u3 .l4 a{
+	position: absolute;
+	padding-top: 95px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u3 .l5 a{
+	position: absolute;
+	padding-top: 110px;
+	width: 100px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u3 .l6 a{
+	position: absolute;
+	padding-top: 130px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}
+/*------------------------------------*/
+.wrapper .box7 .u4{
+	position: absolute;
+	top: 0px;
+	left: 850px;
+}
+.wrapper .box7 .u4 .l1 a{
+	position: absolute;
+	margin-top: 24px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #666666;
+	width: 80px;
+
+}
+.wrapper .box7 .u4 .l2 a{
+	position: absolute;
+	padding-top: 60px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u4 .l3 a{
+	position: absolute;
+	padding-top: 80px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u4 .l4 a{
+	position: absolute;
+	padding-top: 95px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u4 .l5 a{
+	position: absolute;
+	padding-top: 110px;
+	width: 100px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u4 .l6 a{
+	position: absolute;
+	padding-top: 130px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}
+/*--------------------*/
+.wrapper .box7 .u5{
+	position: absolute;
+	top: 0px;
+	left: 1105px;
+}
+.wrapper .box7 .u5 .l1 a{
+	position: absolute;
+	margin-top: 24px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #666666;
+	width: 80px;
+
+}
+.wrapper .box7 .u5 .l2 a{
+	position: absolute;
+	padding-top: 60px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u5 .l3 a{
+	position: absolute;
+	padding-top: 80px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u5 .l4 a{
+	position: absolute;
+	padding-top: 95px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u5 .l5 a{
+	position: absolute;
+	padding-top: 110px;
+	width: 100px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u5 .l6 a{
+	position: absolute;
+	padding-top: 130px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}.wrapper .box7 .u5 .l7 a{
+	position: absolute;
+	padding-top: 150px;
+	width: 80px;
+	font-size: 13px;
+	color: #666666;
+	left: 0px;
+}
+/*-----box7完结-----*/
+.wrapper .box8{
+	position: absolute;
+    top: 1950px;
+    width: 1421;
+    height: 195px;
+}
+.wrapper .box8 li{
+	float: left;
+	
+}
+.wrapper .box8 li a{
+color: #666666;
+}
+/*-------------------*/
+.wrapper .box8 .u1 .l1{
+	margin-top: 14px;
+	margin-left: 315px;
+	padding-right: 12px;
+	border-right: 1px solid #956695;
+
+/*---------------------------*/
+}.wrapper .box8 .u1 .l2{
+	width: 70px;
+		margin-top: 14px;
+	text-align: center;
+	margin-left:0px;
+	border-left: 1px solid #cfffff;
+	border-right: 1px solid #956695;
+}
+/*-------------*/
+.wrapper .box8 .u1 .l3{
+	width: 70px;
+		margin-top: 14px;
+	text-align: center;
+	margin-left:0px;
+	border-left: 1px solid #cfffff;
+	border-right: 1px solid #956695;
+}
+/*--------------------------*/
+.wrapper .box8 .u1 .l4,.wrapper .box8 .u1 .l5,.wrapper .box8 .u1 .l6,.wrapper .box8 .u1 .l7,.wrapper .box8 .u1 .l8,.wrapper .box8 .u1 .l9{
+	width: 70px;
+		margin-top: 14px;
+	text-align: center;
+	margin-left:0px;
+	border-left: 1px solid #cfffff;
+	border-right: 1px solid #956695;
+}
+.wrapper .box8 .u1 .l10{
+width: 87px;
+		margin-top: 14px;
+	text-align: center;
+	margin-left:0px;
+	border-left: 1px solid #cfffff;
+	border-right: 1px solid #956695;
+}
+.wrapper .box8 .u1 .l11{
+	width: 87px;
+		margin-top: 14px;
+	text-align: center;
+	margin-left:0px;
+	border-left: 1px solid #cfffff;
+	/*border-right: 1px solid #956695;*/
+}
+/*----------------------------*/
+.wrapper .box8 .u2 .l1{
+	position: absolute;
+	top: 38px;
+	left: 346px;
+	
+padding-right: 10px;
+	border-right: 1px solid #956695;
+}
+/*.wrapper .box8 .u2 .l1 .pic{
+	margin-top: -27px;
+	margin-left: 7px;
+}*/
+.wrapper .box8 .u2 .l2{
+	position: absolute;
+	top: 38px;
+	left: 513px;
+
+	width: 111px;
+		
+	text-align: center;
+
+	border-left: 1px solid #cfffff;
+	border-right: 1px solid #956695;
+}
+.wrapper .box8 .u2 .l3{
+	position: absolute;
+	top: 38px;
+	left: 626px;
+	width: 305px;
+		
+	text-align: center;
+
+	border-left: 1px solid #cfffff;
+	border-right: 1px solid #956695;
+}
+.wrapper .box8 .u2 .l4{
+	position: absolute;
+	top:38px;
+	left: 933px;
+	width: 158px;
+		
+	text-align: center;
+	
+	border-left: 1px solid #cfffff;
+
+}
+/*-----------------------*/
+.wrapper .box8 .u3 .l1{
+	position: absolute;
+	top: 60px;
+	
+	
+	
+	left:320px;
+	border-left: 1px solid #cfffff;
+	border-right: 1px solid #956695;
+}
+.wrapper .box8 .u3 .l2{
+	position: absolute;
+	top: 60px;
+	left: 555px;
+	width: 109px;
+		
+	border-left: 1px solid #cfffff;
+	border-right: 1px solid #956695;
+}
+.wrapper .box8 .u3 .l3{
+	position: absolute;
+	top: 60px;
+	left: 664px;
+	width: 256px;
+		
+	text-align: center;
+	
+	border-left: 1px solid #cfffff;
+	border-right: 1px solid #956695;
+}
+.wrapper .box8 .u3 .l4{
+	position: absolute;
+	top: 60px;
+	left: 920px;
+	width: 221px;
+	text-align: center;
+	border-left: 1px solid #cfffff;
+
+}
+/*------------------*/
+.wrapper .box8 .u4 .l1{
+	position: absolute;
+	top: 80px;
+	left: 510px;
+	width: 230px;
+	border-right: 1px solid #956695;
+}.wrapper .box8 .u4 .l2{
+	position: absolute;
+	top: 80px;
+	left: 741px;
+	width: 173px;
+	text-align: center;
+	border-left: 1px solid #cfffff;
+}
+/*-----------------*/
+.wrapper .box8 .u5 .l1{
+	position: absolute;
+	top: 100px;
+	left: 650px;
+	width: 150px;
+	text-align: center;
+
+}
+/*-------------------------------------------*/
+.wrapper .box8 .u6 .l1{
+	position: absolute;
+	top: 132px;
+	left: 368px;
+}
+.wrapper .box8 .u6 .l2{
+	position: absolute;
+	left: 490px;
+	top: 132px;
+}
+.wrapper .box8 .u6 .l3{
+	position: absolute;
+	left: 610px;
+	top: 132px;
+}.wrapper .box8 .u6 .l4{
+	position: absolute;
+	left: 730px;
+	top: 132px;
+}.wrapper .box8 .u6 .l5{
+	position: absolute;
+	left: 850px;
+	top: 132px;
+}.wrapper .box8 .u6 .l6{
+	position: absolute;
+	left: 970px;
+	top: 132px;
+}
+/*--------主页面完结-----------*/
